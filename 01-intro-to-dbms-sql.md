@@ -1,4 +1,6 @@
 # Lecture 1: Introduction to DBMS and SQL
+# Lecture 1: Introduction to DBMS and SQL
+# Lecture 1: Introduction to DBMS and SQL
 
 ## Agenda
 
