@@ -1,4 +1,5 @@
-
+##
+SQL JOINS are very important for big project properly
 ## Agenda
 
  - Self Join
